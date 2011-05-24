@@ -1,1 +1,1 @@
-function(){with(google.maps)new Map(document.getElementById("map"),{zoom:1,center:new LatLng(0,0),mapTypeId:MapTypeId.TERRAIN})}
+function(a,b,c,d){with(google.maps)new Map(a,{zoom:b,center:new LatLng(c,d),overviewMapControl:!0,mapTypeId:MapTypeId.TERRAIN})}
